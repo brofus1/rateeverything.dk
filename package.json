@@ -1,0 +1,17 @@
+{
+  "name": "rateeverything.dk",
+  "version": "1.0.0",
+  "description": "A site for rating things",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sofus Birk Arnbjerg",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "firebase-admin": "^11.0.1",
+    "ip": "^1.1.8",
+    "socket.io": "^4.5.2"
+  }
+}
